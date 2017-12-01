@@ -8,7 +8,7 @@ based on the actions they initiated. Lastly, we had to provide instructions so t
 ![Picture of instructions] ( https://docs.google.com/uc?id=0B6uYPHCWTV0xSXhDVVkyRlMwMk0)
 ![Picture of flashlight] ( https://docs.google.com/uc?id=0B6uYPHCWTV0xZUowNmN4d3RxLVk)
 
-#Project Requirements
+# Project Requirements
 ## Customizing Your App
 
 ### Change the Hello World text to include the Student's name
