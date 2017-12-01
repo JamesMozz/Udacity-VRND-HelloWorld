@@ -4,7 +4,6 @@ First Udacity virtual reality nanodegree (VRND) project. Our hello project requi
 pre-made scene and deploy it to our phone. We also had to add a flashlight and modify a menu to include buttons that were descriptive
 based on the actions they initiated. Lastly, we had to provide instructions so that a user would know what to do. 
 
-![Interview](https://video.dxc.com/media/t/1_ldubot4h)
 ![Picture of Hello World Project](https://docs.google.com/uc?id=0B6uYPHCWTV0xSlVuM1hLSGZuRWc)
 ![Picture of instructions](https://docs.google.com/uc?id=0B6uYPHCWTV0xSXhDVVkyRlMwMk0)
 ![Picture of flashlight](https://docs.google.com/uc?id=0B6uYPHCWTV0xZUowNmN4d3RxLVk)
